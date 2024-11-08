@@ -1,0 +1,4 @@
+Challenge 1: 	1655
+Challenge 2: 	1683
+Challenge 3: 	1524750
+Challenge 4: 	1592426537
